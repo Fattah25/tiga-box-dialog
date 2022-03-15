@@ -6,7 +6,7 @@ Tiga box dialog :
 2. Confirm Dialog
 3. Input Dialog
 
-Demo [Aplikasi box dialog](tiga-box-dialog/dist) :
+Demo [Aplikasi box dialog](/dist) :
 
 ![tutor gif](tutor.gif)
 

@@ -7,4 +7,4 @@
 
 ## Content
 1. [Source Code](#)
-2. [Aplication](#)
+2. [Aplication](dist)

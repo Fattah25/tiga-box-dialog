@@ -5,3 +5,8 @@ Tiga box dialog :
 1. Message Dialog
 2. Confirm Dialog
 3. Input Dialog
+
+Demo [Aplikasi box dialog](./dist) :
+
+![tutor gif](tutor.gif)
+

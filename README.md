@@ -6,5 +6,5 @@
 > NIM   : 32602000101
 
 ## Content
-1. [Source Code](#)
-2. [Aplication](dist)
+1. [Source Code](src/handling/dialog "Buka file ThreeDialog.java")
+2. [Application](dist)
